@@ -27,7 +27,7 @@ https://youtube.com/playlist?list=PLxEgnXH70pQ4NkFrnLmCPLjbqP04nQvZC&feature=sha
 Small tekken, according to Mingriah, is quite literally **doing small moves.**  tekken can be simplified to a select portion of moves, around 7 to 8, sometimes more. These moves consist of your character’s best moves in the neutral game (pokes, highs, mids and fast lows, rage art Heat Burst) and tools to punish the opponent for whiffing (strings, launchers). You can use pokes to gather information on your opponent’s tendencies, or to just hit the other guy if you think it’s a good idea.  
 
 
-<video width="auto" height="auto" controls autoplay>
+<video width="100%" height="auto" controls autoplay>
     <source src="./embed/small-tekken.mp4" type="video/mp4">
 </video>
 
