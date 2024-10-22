@@ -6,19 +6,19 @@ Author: HiddenTactics
 Character Matchup Knowledge
 
 How to Backdash Cancel  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M6sVVfV6rjg?si=mbufqiTU8qO60V3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/M6sVVfV6rjg?si=mbufqiTU8qO60V3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 How to Dash Block  
-https://youtu.be/thRg2qsJOh0?feature=shared
+<iframe width="400" height="300" src="https://www.youtube.com/embed/thRg2qsJOh0?si=x8kNrlQWNo6cuKte" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Frame Data Understanding  
-https://youtu.be/ZW7vRNnCgDc?feature=shared  
+<iframe width="400" height="300" src="https://www.youtube.com/embed/ZW7vRNnCgDc?si=1FgmUaieM19pnXSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Combos  
-https://youtube.com/playlist?list=PL_U9Pinb_6bxNVubKd2YP7D5YNysirILY&feature=shared
+<iframe width="400" height="300" src="https://www.youtube.com/embed/videoseries?si=Ts0UOnrQW38FiE56&amp;list=PL_U9Pinb_6bxNVubKd2YP7D5YNysirILY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Punishment and Whiff Punishment  
-https://youtube.com/playlist?list=PLxEgnXH70pQ4NkFrnLmCPLjbqP04nQvZC&feature=shared
+<iframe width="400" height="300" src="https://www.youtube.com/embed/videoseries?si=I03J9eT36r42fNv7&amp;list=PLxEgnXH70pQ4NkFrnLmCPLjbqP04nQvZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 __________
