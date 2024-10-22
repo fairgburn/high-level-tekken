@@ -26,7 +26,7 @@ https://youtube.com/playlist?list=PLxEgnXH70pQ4NkFrnLmCPLjbqP04nQvZC&feature=sha
 ### Small Tekken
 Small tekken, according to Mingriah, is quite literally **doing small moves.**  tekken can be simplified to a select portion of moves, around 7 to 8, sometimes more. These moves consist of your character’s best moves in the neutral game (pokes, highs, mids and fast lows, rage art Heat Burst) and tools to punish the opponent for whiffing (strings, launchers). You can use pokes to gather information on your opponent’s tendencies, or to just hit the other guy if you think it’s a good idea.  
 
-https://github.com/user-attachments/assets/826cc84c-3b72-4c0f-ad84-c27d60be784e
+![small-tekken.mp4](./embed/small-tekken.mp4)
 
 
 
@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/826cc84c-3b72-4c0f-ad84-c27d60be784e
 Backdashing should be used to create space, or avoid an attack. *Don't abuse it.*  
 
 
-https://github.com/user-attachments/assets/2674e226-3503-4939-bcdd-819cf82c6b91
+![moving-with-purpose.mp4](./embed/moving-with-purpose.mp4)
 
 
 
@@ -81,8 +81,7 @@ Most Characters in the game have multiple options to deal with how you defend ag
 **Example: Option Coverage Movement**  
 
 
-https://github.com/user-attachments/assets/f53add3f-3d31-470a-bd47-1e5a40c478fa
-
+![step-duck.mp4](./embed/step-duck.mp4)
 
 
 ### Attacking with Nothing
@@ -91,8 +90,7 @@ There are times in tekken where forcing the opponent to hesitate is the best opt
 **Example: Offensive Movement for Okizeme**  
 
 
-https://github.com/user-attachments/assets/0a3a1b33-d724-47f1-b7fd-17913332bc9b
-
+![offensive-movement.mp4](./embed/offensive-movement.mp4)
 
 
 ## LEVEL 4
@@ -103,21 +101,19 @@ Timing is one of the more difficult concepts to grasp. During a frame situation,
 **Immediate Timing**  
 
 
-https://github.com/user-attachments/assets/178e1324-c312-4925-8041-392c06c9fcb1
-
+![timing1.mp4](./embed/timing1.mp4)
 
 
 **Short Delay Timing**  
 
 
-https://github.com/user-attachments/assets/26050099-5892-4e11-8a1b-be3af184dea1
-
+![timing2.mp4](./embed/timing2.mp4)
 
 
 **Long Delay Timing**  
 
 
-https://github.com/user-attachments/assets/2a98b7c1-2533-4140-bee0-e5f07826d47f
+![timing3.mp4](./embed/timing3.mp4)
 
 
 
