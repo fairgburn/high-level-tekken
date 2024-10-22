@@ -41,8 +41,9 @@ Small tekken, according to Mingriah, is quite literally **doing small moves.**  
 Backdashing should be used to create space, or avoid an attack. *Don't abuse it.*  
 
 
-![moving-with-purpose.mp4](./embed/moving-with-purpose.mp4)
-
+<video width="400" height="300" controls autoplay>
+    <source src="./embed/moving-with-purpose.mp4" type="video/mp4">
+</video>
 
 
 ### Patience
@@ -83,7 +84,9 @@ Most Characters in the game have multiple options to deal with how you defend ag
 **Example: Option Coverage Movement**  
 
 
-![step-duck.mp4](./embed/step-duck.mp4)
+<video width="400" height="300" controls autoplay>
+    <source src="./embed/step-duck.mp4" type="video/mp4">
+</video>
 
 
 ### Attacking with Nothing
@@ -92,7 +95,9 @@ There are times in tekken where forcing the opponent to hesitate is the best opt
 **Example: Offensive Movement for Okizeme**  
 
 
-![offensive-movement.mp4](./embed/offensive-movement.mp4)
+<video width="400" height="300" controls autoplay>
+    <source src="./embed/offensive-movement.mp4" type="video/mp4">
+</video>
 
 
 ## LEVEL 4
@@ -103,20 +108,25 @@ Timing is one of the more difficult concepts to grasp. During a frame situation,
 **Immediate Timing**  
 
 
-![timing1.mp4](./embed/timing1.mp4)
+<video width="400" height="300" controls autoplay>
+    <source src="./embed/timing1.mp4" type="video/mp4">
+</video>
 
 
 **Short Delay Timing**  
 
 
-![timing2.mp4](./embed/timing2.mp4)
+<video width="400" height="300" controls autoplay>
+    <source src="./embed/timing2.mp4" type="video/mp4">
+</video>
 
 
 **Long Delay Timing**  
 
 
-![timing3.mp4](./embed/timing3.mp4)
-
+<video width="400" height="300" controls autoplay>
+    <source src="./embed/timing3.mp4" type="video/mp4">
+</video>
 
 
 
@@ -126,13 +136,23 @@ __It’s very important to observe and adapt to the timings which your opponent 
 ~ Loko Makoto
 
 **Example: Various Adjustments of timing**  
-![timing-adjustments.mp4](./embed/timing-adjustments.mp4)
+
+
+<video width="400" height="300" controls autoplay>
+    <source src="./embed/timing-adjustments.mp4" type="video/mp4">
+</video>
+
 
 **__Simplifying Mental Stack__**  
 In the heat of a real match, it’s very easy to get overwhelmed mentally when you’re focused on covering multiple options. Once that happens, the opponent is granted multiple opportunities to stiffen your neutral and force hesitation.
 
 **Example: round 1 leading to overloaded mental stack round 2**  
-![mental-stack.mp4](./embed/mental-stack.mp4)
+
+
+<video width="400" height="300" controls autoplay>
+    <source src="./embed/mental-stack.mp4" type="video/mp4">
+</video>
+
 
 When feeling overloaded, reduce the information taken into a core set of data.  
 * __The remaining time in the round__  
