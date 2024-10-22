@@ -1,4 +1,7 @@
-# Prerequisites
+# High Level Tekken
+Author: HiddenTactics
+
+## Prerequisites
 
 Character Matchup Knowledge
 
