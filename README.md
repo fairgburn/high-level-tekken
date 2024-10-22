@@ -22,7 +22,10 @@ https://youtube.com/playlist?list=PLxEgnXH70pQ4NkFrnLmCPLjbqP04nQvZC&feature=sha
 
 ### Small Tekken
 Small tekken, according to Mingriah, is quite literally **doing small moves.**  tekken can be simplified to a select portion of moves, around 7 to 8, sometimes more. These moves consist of your character’s best moves in the neutral game (pokes, highs, mids and fast lows, rage art Heat Burst) and tools to punish the opponent for whiffing (strings, launchers). You can use pokes to gather information on your opponent’s tendencies, or to just hit the other guy if you think it’s a good idea.  
-https://imgur.com/a/HFGAtTm
+
+https://github.com/user-attachments/assets/826cc84c-3b72-4c0f-ad84-c27d60be784e
+
+
 
 ### Moving With a Purpose
 **Moving with a purpose** means that your main source of moving **__backwards__** is through proper backdash cancels, limited to a certain amount (__JDCR’s Rule: 3 or less__) in order to maintain proper space control and your main source of moving **__forward__** is through dash blocking in order to not get hit while approaching.
@@ -31,7 +34,11 @@ https://imgur.com/a/HFGAtTm
         2. Avoid an attack
       3. Negate an opponent's sidestep
 Backdashing should be used to create space, or avoid an attack. *Don't abuse it.*  
-https://imgur.com/a/rB9f5PE
+
+
+https://github.com/user-attachments/assets/2674e226-3503-4939-bcdd-819cf82c6b91
+
+
 
 ### Patience
 Patience in tekken primarily requires discipline as well as the **Matchup Knowledge Prerequisite**. It’s important to understand that certain characters require you to **press less to virtually no buttons** in order to play against them properly. Movement must be clean, accurate and consistent in order to ensure you don’t get hit while defending.
@@ -69,13 +76,21 @@ __Example Quote:__ *“You don’t have to Open me up. You just have to hit me. 
 Most Characters in the game have multiple options to deal with how you defend against their interactions. **__You are never forced to commit to a singular movement option for defense, but instead you have the option to chain multiple forms of movement together.__** **Backdash -> Duck** or **Sidestep -> Duck** can be utilized to __add an extra layer of coverage to your defense.__
 
 **Example: Option Coverage Movement**  
-https://imgur.com/a/step-duck-2LWX5lH
+
+
+https://github.com/user-attachments/assets/f53add3f-3d31-470a-bd47-1e5a40c478fa
+
+
 
 ### Attacking with Nothing
 There are times in tekken where forcing the opponent to hesitate is the best option in order to open up more opportunities for you to initiate offense. Forward dashing towards the opponent **creates a visage of aggression**, and can throw the opponents thinking off-kilter to **condition them to defend against an incoming attack**. With this in mind, __movement can be used as an “empty” form of offense in order to force hesitation.__
 
 **Example: Offensive Movement for Okizeme**  
-https://imgur.com/a/dnfgEVp
+
+
+https://github.com/user-attachments/assets/0a3a1b33-d724-47f1-b7fd-17913332bc9b
+
+
 
 ## LEVEL 4
 
@@ -83,13 +98,25 @@ https://imgur.com/a/dnfgEVp
 Timing is one of the more difficult concepts to grasp. During a frame situation, opponents always have the option to delay their options in order to throw off your own timing. Timing can be simplified into 3 categories.  
 
 **Immediate Timing**  
-https://imgur.com/a/immediate-timing-jvxHUqu
+
+
+https://github.com/user-attachments/assets/178e1324-c312-4925-8041-392c06c9fcb1
+
+
 
 **Short Delay Timing**  
-https://imgur.com/a/slight-delay-timing-gnHTdb6
+
+
+https://github.com/user-attachments/assets/26050099-5892-4e11-8a1b-be3af184dea1
+
+
 
 **Long Delay Timing**  
-https://imgur.com/a/long-delay-timing-iwtRRxt
+
+
+https://github.com/user-attachments/assets/2a98b7c1-2533-4140-bee0-e5f07826d47f
+
+
 
 
 __It’s very important to observe and adapt to the timings which your opponent connects their attacks, and tailor your own timing and habits to beat theirs.__ **Timing can be changed through the use of patience, longer startup attacks, or through movement.**
@@ -98,13 +125,13 @@ __It’s very important to observe and adapt to the timings which your opponent 
 ~ Loko Makoto
 
 **Example: Various Adjustments of timing**  
-https://imgur.com/a/Q6LzZWa
+![timing-adjustments.mp4](./embed/timing-adjustments.mp4)
 
 **__Simplifying Mental Stack__**  
 In the heat of a real match, it’s very easy to get overwhelmed mentally when you’re focused on covering multiple options. Once that happens, the opponent is granted multiple opportunities to stiffen your neutral and force hesitation.
 
 **Example: round 1 leading to overloaded mental stack round 2**  
-https://imgur.com/a/LQGo8qD
+![mental-stack.mp4](./embed/mental-stack.mp4)
 
 When feeling overloaded, reduce the information taken into a core set of data.  
 * __The remaining time in the round__  
